@@ -1,3 +1,3 @@
 ## How To Run
 - Download all the files
-- run index.html
+- Execute index.html
